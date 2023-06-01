@@ -9,7 +9,7 @@ Receiving events:
 
 .env file:
 - CHAT_ID - Telegram group (Bot must be a member of the group)
-- BOT_TOKEN - obviously
+- BOT_TOKEN - obviously bot token (name must starts with 'bot.....')
 
 Override by using -e, for example:
 
